@@ -11,9 +11,11 @@ The script performs zero harmful actions.
 It is purely for fun, awareness training, and demonstration.
 
 📁 Payload File
+
 Place this as payload.dd on your Pico-Ducky.
 Your full script is included in the repository.
 
 ⚠️ Disclaimer
+
 Use only on systems where you have explicit permission.
 This payload is 100% harmless, but still simulates actions that look real.
